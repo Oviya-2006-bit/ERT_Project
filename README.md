@@ -159,8 +159,7 @@ This project is intended to run locally during development. Cloud deployment is 
 
 ## Author
 
-**Karthik S**
-
+OVIYA E K
 ---
 
 
